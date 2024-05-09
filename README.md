@@ -19,8 +19,9 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Screenshot
 
 ![windows screenshot](./images/windows.png)
+*This is a screenshot from a windows.*
 ![mobile screenshot](./images/mobile.png)
-
+*This is a screenshot from mobile.*
 
 ## My process
 
