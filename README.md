@@ -22,11 +22,11 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 <div style="display: flex; flex-direction: column; align-items: center;">
     <div style="position: relative;">
-        <img src="./images/windows.png" alt="Image 1" style="width: 500px; height: auto;">
+        <img src="./images/windows.png" alt="Image 1" style="width: 300px; height: auto;">
         <span style="position: absolute; bottom: 0; left: 0;">windows screenshot1</span>
     </div>
     <div style="position: relative;">
-        <img src="./images/mobile.png" alt="Image 2" style="width: 500px; height: auto;">
+        <img src="./images/mobile.png" alt="Image 2" style="width: 300px; height: auto;">
         <span style="position: absolute; bottom: 0; right: 0;">mobile screenshot</span>
     </div>
 </div>
