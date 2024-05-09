@@ -19,20 +19,15 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Screenshot
 
  <!--
- ![windows screenshot](./images/windows.png)
-*This is a screenshot from a windows.*
-![mobile screenshot](./images/mobile.png)
-*This is a screenshot from mobile.*
- -->
 
 <div style="display: flex; flex-direction: column; align-items: center;">
     <div style="position: relative;">
-        <img src="./images/windows.png" alt="Image 1" style="width: 300px; height: auto;">
-        <span style="position: absolute; bottom: 0; left: 0;">Caption for Image 1</span>
+        <img src="./images/windows.png" alt="Image 1" style="width: 500px; height: auto;">
+        <span style="position: absolute; bottom: 0; left: 0;">windows screenshot1</span>
     </div>
     <div style="position: relative;">
         <img src="./images/mobile.png" alt="Image 2" style="width: 500px; height: auto;">
-        <span style="position: absolute; bottom: 0; right: 0;">Caption for Image 2</span>
+        <span style="position: absolute; bottom: 0; right: 0;">mobile screenshot</span>
     </div>
 </div>
 
@@ -48,7 +43,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### What I learned
 
 I was struggling to center my container. I learned to do that using flexbox. I also learned to link
-external fonts in html.
+external fonts in HTML.
 
 
 
